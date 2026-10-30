@@ -1,3 +1,3 @@
 # Yining's Portfolio
 
-Welcome! Work in progress.
+Welcome! Work in progress
