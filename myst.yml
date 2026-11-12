@@ -13,6 +13,7 @@ project:
     - file: index.md
     - file: Lab 8.ipynb
     - file: Lecture 16 Example.ipynb
+    - file: project_1.ipynb
     
 site:
   template: book-theme
